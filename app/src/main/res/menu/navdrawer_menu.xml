@@ -4,7 +4,7 @@
 
     <item
         android:id="@+id/dataFragment"
-        android:title="Historial" />
+        android:title="Inicio" />
     <item
         android:id="@+id/aboutFragment"
         android:title="Acerca de.." />
